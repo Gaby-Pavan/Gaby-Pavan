@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # Hello! Welcome to my GitHub profile
 ## My name is Gabrielly Pavan and I live in São Paulo/Brazil
@@ -10,7 +9,7 @@
 🤔 I’m looking for help with Python and Machine Learning
 🔭 I have a Bachelor's Degree in Business Administration 
 📫 How to reach me: e-mail: gabriellypavan@gmail.com or Linkedin: https://www.linkedin.com/in/gabriellypavan/
-⚡ Fun fact: I have a small candle business, love pilates and I also have two cats
+⚡ Fun fact: I own a small candle business
 
 **TOOLS**
 
